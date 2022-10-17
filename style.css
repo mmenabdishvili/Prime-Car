@@ -1,0 +1,102 @@
+
+
+                                            /* footer */
+.footer_section{
+    width: 100%;
+    height: 60ch;
+    background-color: black;
+}
+.footer_div_1{
+    width: 90%;
+    margin: auto;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_div_1 span{
+    font-family: 'American Captain';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 120px;
+}
+.footer_div_1 p{
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30.08px;
+    line-height: 50px;
+}
+                                              /* input_div */
+.contact_input_div{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    
+
+}
+input{
+    padding: 20px;
+    outline: 0;
+    border-width:  0 0 2px;
+    border-color: white
+}
+
+.contact_input_div div input{
+    background-color: transparent
+}
+.submit_button button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8px 41px;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+    background-color: transparent;
+    color: white;
+    margin-top: 20px;
+
+}
+.text_div{
+    margin-top: 100px;
+}
+iframe{
+    width: 100%;
+}
+.footer_div_3{
+    width: 100%;
+    height: 50ch;
+    background-color: black;
+
+}
+.footer_div_3_child{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding: 30px;
+}
+.footer_div_3 h4{
+    font-family: 'American Captain';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 100px;
+}
+.items_div ul li{
+    padding: 10px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 11px;
+}
+.items_div span{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.title_item {
+    font-size: 30px !important;
+}
